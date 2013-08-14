@@ -6,7 +6,7 @@ doing awesome "things". . . .
 
 # Setup
 * Clone using 
-    git clone https://github.com/krwenholz/SS-Collection
+    git clone https://github.com/bwjr/SS-Collection
 * cd in there
 * collection-app is the app directory
 * You can install all dependencies with 
