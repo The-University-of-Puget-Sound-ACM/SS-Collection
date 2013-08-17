@@ -14,6 +14,7 @@ doing awesome "things". . . .
 * To set up the database (on an empty mongodb):
     * Run `python binparse.py locations.xlsx`
     * The fresh file generated is a json representation of the bin definitions.
+    * Start your mongo instance with mongod '--dbpath SS-Collection/data'
     * Run `mongoimport --db ss-collection --collection bin_defs --file json_bins.txt`
     * If the above command worked, you should have many bins in your mongodb.
 
