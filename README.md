@@ -19,7 +19,7 @@ doing awesome "things". . . .
     * If the above command worked, you should have many bins in your mongodb.
 
 
-Now you're ready to help out!
+Now you're ready to help out!!
 
 ## Links we may like
 [MySQL to Excel](http://www.automateexcel.com/2005/11/01/connect_excel_to_mysql_database/)
