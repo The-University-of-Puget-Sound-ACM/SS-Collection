@@ -1,0 +1,57 @@
+<html>
+<body>
+
+<h1>Hey ACM</h1>
+
+<marquee><blink><p>Sup Doood</p></blink></marquee>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<form action="" method="post" id="building">
+<select name="building">
+<option value="default">Select a Building</option>
+<option value="CEB">Ceramics Building</option>
+<option value="CO">Commencement Hall</option>
+<option value="FH">Fieldhouse</option>
+<option value="HA">Harned Hall</option>
+<option value="HO">Howarth Hall</option>
+<option value="JO">Jones Hall</option>
+<option value="KT">Kittredge Hall</option>
+<option value="MC">McIntyre Hall</option>
+<option value="MU">Music Building</option>
+<option onclick="selectBuidling('TH')" value="TH">Thompson Hall</option>
+<option onclick="selectBuidling('TR')" value="TR">Trimble Hall</option>
+<option value="ATH">Wallace Pool</option>
+<option value="WEY">Weyerhaeuser Hall</option>
+<option value="WY">Wyatt Hall</option>
+</select>
+</form>
+
+<script>
+function selectBuilding(build) {
+    <html>
+    <form action="" method="post" id="building">
+<select name="building">
+<option value="default">Select a Building</option>
+<option value="CEB">Ceramics Building</option>
+<option value="CO">Commencement Hall</option>
+<option value="FH">Fieldhouse</option>
+<option value="HA">Harned Hall</option>
+<option value="HO">Howarth Hall</option>
+<option value="JO">Jones Hall</option>
+<option value="KT">Kittredge Hall</option>
+<option value="MC">McIntyre Hall</option>
+<option value="MU">Music Building</option>
+<option onclick="" value="TH">Thompson Hall</option>
+<option onclick="" value="TR">Trimble Hall</option>
+<option value="ATH">Wallace Pool</option>
+<option value="WEY">Weyerhaeuser Hall</option>
+<option value="WY">Wyatt Hall</option>
+</select>
+</form>
+</html>
+</script>
+
+
+</body>
+</html> 
